@@ -1,2 +1,2 @@
-# pastebin
-pastebin api
+# pastebin api
+`Visit: https://pastebin.com/api`
